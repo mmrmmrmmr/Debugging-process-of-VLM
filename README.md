@@ -1,3 +1,1 @@
-# Debugging-process-of-VLM
-
-xxxxxxxxxxxxxx
+本仓库为调研视觉语言模型时的代码研究，调试跑通源代码后进行一定的修改与拆解
